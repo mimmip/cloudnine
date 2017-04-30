@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script src="script.js"></script>
+    <title>Salonger</title>
+</head>
+<body>
+    <!--first page -->
+    <div data-role="page" id="list-page">
+        <div class="container-fluid nopad">
+            <div class="row">
+                <div class="col-xs-12 nopad text-center push-down">
+                    <h1>Hår</h1>
+                    <hr class="gold" />
+                </div>
+            </div>
+
+
+                <div class="col-xs-12" data-role="content">
+                    <form class="ui-filterable">
+                        <input id="filterBasic-input" data-type="search" />
+                    </form>
+                    <ul data-role="listview" id="salon-list" data-filter="true" data-input="#filterBasic-input"  data-divider-theme="a" data-inset="true">
+                    <!--<li data-role="list-divider" data-theme="b" role="heading">Names</li>-->
+                    </ul>
+                </div>
+
+        </div><!--//container-fluid-->
+    </div><!--//first page-->
+
+
+
+        <!--second page -->
+        <div data-role="page" id="details-page" class="container-fluid">
+            <div  class="row">
+                <a href="#" data-direction="reverse" data-rel="back"><img src="img/chevron_back.png" /></a>
+                <img class="heart" src="img/heart.png" />
+                <div class="content">
+
+                </div>
+            </div>
+        </div>
+        <!--//second page-->
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+[
+    {
+    "name" : "Sax & Fön",
+    "adress" : "Rådmansgatan 46",
+    "zip" : "113 57 Stockholm",
+    "time" : "12",
+    "tel" : "08-522 389 20",
+    "site" : "www.salongweb.se",
+    "rating" : "(32)",
+    "price" : "320 kr",
+    "timeEst" : "30 min",
+    "open" : "Öppet till 19.00 idag",
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+    },
+
+    {
+    "name" : "Hårizont",
+    "adress" : "Rådmansgatan 46",
+    "zip" : "113 57 Stockholm",
+    "time" : "12",
+    "tel" : "08-522 389 20",
+    "site" : "www.salongweb.se",
+    "rating" : "(32)",
+    "price" : "320 kr",
+    "timeEst" : "30 min",
+    "open" : "Öppet till 19.00 idag",
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+    },
+
+    {
+    "name" : "Hårhuset",
+    "adress" : "Rådmansgatan 46",
+    "zip" : "113 57 Stockholm",
+    "time" : "12",
+    "tel" : "08-522 389 20",
+    "site" : "www.salongweb.se",
+    "rating" : "(32)",
+    "price" : "320 kr",
+    "timeEst" : "30 min",
+    "open" : "Öppet till 19.00 idag",
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+    },
+
+    {
+    "name" : "Hair & Nu",
+    "adress" : "Rådmansgatan 46",
+    "zip" : "113 57 Stockholm",
+    "time" : "12",
+    "tel" : "08-522 389 20",
+    "site" : "www.salongweb.se",
+    "rating" : "(32)",
+    "price" : "320 kr",
+    "timeEst" : "30 min",
+    "open" : "Öppet till 19.00 idag",
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+    },
+
+    {
+    "name" : "Hårley Davidson",
+    "adress" : "Rådmansgatan 45",
+    "zip" : "113 57 Stockholm",
+    "time" : "12",
+    "tel" : "08-522 389 20",
+    "site" : "www.salongweb.se",
+    "rating" : "(32)",
+    "price" : "320 kr",
+    "timeEst" : "30 min",
+    "open" : "Öppet till 19.00 idag",
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+    }
+]
+

@@ -1,0 +1,152 @@
+/******************************************/
+/********* JQUERY MOBILE OVERRIDES *****/
+/*******************************************/
+
+.ui-shadow-inset {
+    box-shadow: none !important;
+}
+
+.ui-page {
+    background-color: #fff;
+}
+
+.ui-link {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+/*************************************/
+/********* GENERAL STYLES ************/
+/*************************************/
+
+
+.nopad {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.push-down {
+    padding-top: 15px;
+}
+
+.push-up {
+    padding-bottom: 15px;
+}
+
+
+.ui-content {
+    padding: 0 !important;
+}
+
+.ui-listview {
+    margin: 0 !important;
+}
+
+.example-wrapper, .example-wrapper div.iscroll-scroller {
+    width: 100% !important;
+}
+
+.gold {
+    color: #B69F58;
+}
+
+hr.gold {
+    border-top: 1px solid #B69F58 !important;
+}
+
+
+
+
+
+/***************************************/
+/*********** TYPOGRAPHY *****************/
+/*****************************************/
+
+@font-face {
+  font-family: 'MillerBannerLight';
+  src: url('fonts/font_bureau-millerbannerlight.otf');
+}
+
+a {
+    color: #000 !important;
+}
+
+h1, h2, h3 {
+    font-family: 'MillerBannerLight';
+    font-weight: 200 !important;
+    margin-top: 0px;
+}
+
+p, a, h1, h2, h3, span {
+    font-weight: 200;
+}
+
+
+li {
+    list-style: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/****************************************/
+/*************** SALON VIEW **************/
+/****************************************/
+
+
+
+
+.bgr {
+    background-image: url(img/salon_img.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff !important;
+    margin-bottom: 20px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.headerView {
+    height: 300px;
+}
+
+.title {
+    position: absolute;
+    bottom: 50px;
+}
+
+.rate {
+    position: absolute;
+    bottom: 20px;
+}
+
+.ui-link {
+    position: absolute;
+    top:20px;
+    z-index: 500;
+}
+
+.heart {
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    z-index: 500;
+}
+
+.tabs {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.active {
+    border-bottom: 2px solid #B69F58;
+}
+
+
+
+
+
+
